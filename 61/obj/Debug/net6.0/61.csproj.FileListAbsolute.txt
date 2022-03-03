@@ -1,0 +1,15 @@
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ8 (57,59,61,63,65)\61\bin\Debug\net6.0\61.exe
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ8 (57,59,61,63,65)\61\bin\Debug\net6.0\61.deps.json
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ8 (57,59,61,63,65)\61\bin\Debug\net6.0\61.runtimeconfig.json
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ8 (57,59,61,63,65)\61\bin\Debug\net6.0\61.dll
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ8 (57,59,61,63,65)\61\bin\Debug\net6.0\ref\61.dll
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ8 (57,59,61,63,65)\61\bin\Debug\net6.0\61.pdb
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ8 (57,59,61,63,65)\61\obj\Debug\net6.0\61.csproj.AssemblyReference.cache
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ8 (57,59,61,63,65)\61\obj\Debug\net6.0\61.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ8 (57,59,61,63,65)\61\obj\Debug\net6.0\61.AssemblyInfoInputs.cache
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ8 (57,59,61,63,65)\61\obj\Debug\net6.0\61.AssemblyInfo.cs
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ8 (57,59,61,63,65)\61\obj\Debug\net6.0\61.csproj.CoreCompileInputs.cache
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ8 (57,59,61,63,65)\61\obj\Debug\net6.0\61.dll
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ8 (57,59,61,63,65)\61\obj\Debug\net6.0\ref\61.dll
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ8 (57,59,61,63,65)\61\obj\Debug\net6.0\61.pdb
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ8 (57,59,61,63,65)\61\obj\Debug\net6.0\61.genruntimeconfig.cache
